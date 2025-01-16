@@ -23,7 +23,7 @@ requirements:
 
 tests:
   - script:
-      - "refine 2>&1 | grep -q \"package.json not found\""
+      - refine --help
 
 about:
   license: MIT
