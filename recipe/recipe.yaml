@@ -1,5 +1,5 @@
 context:
-  version: 2.16.38
+  version: "2.16.42"
 
 package:
   name: refinedev-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@refinedev/cli/-/cli-${{ version }}.tgz
-  sha256: ce17d1bdf3c48b450c7417b26245b5b98d0a1d7b1ae3f46213e4f24d1cbdff48
+  sha256: 9d7efd90ba3b8964e9436af056a962b0744c2829ee43e2c0e13098a2429c6fb0
 
 build:
   number: 0
